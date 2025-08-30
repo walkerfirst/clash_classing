@@ -3,6 +3,7 @@
 # 常用
 DOMAIN-SUFFIX,pharmasi.dpdns.org
 DOMAIN-SUFFIX,neoliu.dpdns.org
+DOMAIN-SUFFIX,cloudflare.com
 
 # IP段匹配
 IP-CIDR,142.171.133.0/24,no-resolve
