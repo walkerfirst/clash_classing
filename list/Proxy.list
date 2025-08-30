@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,pharmasi.dpdns.org
 DOMAIN-SUFFIX,neoliu.dpdns.org
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,claw.cloud
+DOMAIN-SUFFIX,clawcloudrun.com
 
 # IP段匹配
 IP-CIDR,142.171.133.0/24,no-resolve
