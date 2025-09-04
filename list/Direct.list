@@ -2,6 +2,9 @@
 
 # MyList
 # 域名后缀匹配
+DOMAIN-SUFFIX,moscwise.com
+DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,ups.com
 DOMAIN-SUFFIX,pages.dev
@@ -26,17 +29,14 @@ DOMAIN-SUFFIX,0033cas.com
 DOMAIN-SUFFIX,asyncdata.net
 DOMAIN-SUFFIX,2akribis.com
 DOMAIN-SUFFIX,gptacg.top
-
 DOMAIN-SUFFIX,gying.net
 DOMAIN-SUFFIX,51zmt.top
-
 DOMAIN-SUFFIX,idsduf.com
 DOMAIN-SUFFIX,bncrcloud.com
 # DOMAIN-SUFFIX,apple-bing.sbs
 DOMAIN-SUFFIX,xiaoniuyun.cc
 DOMAIN-SUFFIX,vp2.us
 DOMAIN-SUFFIX,km688.ink
-
 DOMAIN-SUFFIX,futo-on.com
 
 # 快猫    
@@ -90,7 +90,6 @@ IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
-
 # 360
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360kuai.com
@@ -100,7 +99,6 @@ DOMAIN-SUFFIX,qhres.com
 DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,so.com
-
 
 # 58
 DOMAIN-SUFFIX,58.com
@@ -240,7 +238,6 @@ DOMAIN-SUFFIX,huaweishop.net
 DOMAIN-SUFFIX,hwccpc.com
 DOMAIN-SUFFIX,vmall.com
 DOMAIN-SUFFIX,vmallres.com
-
 
 # Iqiyi
 DOMAIN-SUFFIX,71.am
