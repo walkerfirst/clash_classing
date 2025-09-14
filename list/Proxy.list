@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,claw.cloud
 DOMAIN-SUFFIX,clawcloudrun.com
 DOMAIN-SUFFIX,gnews.io
 DOMAIN-SUFFIX,newsapi.org
-DOMAIN-SUFFIX,bing.com
+
 
 # IP段匹配
 IP-CIDR,142.171.133.0/24,no-resolve
