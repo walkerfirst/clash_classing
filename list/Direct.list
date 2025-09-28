@@ -1,6 +1,7 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,cloudns.net
+DOMAIN-SUFFIX,pages.dev
 
 
 # MyList

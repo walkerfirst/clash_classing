@@ -1,0 +1,8 @@
+# 机动可变ip
+domain:googleapis.cn
+domain:googleapis.com
+domain:xn--ngstr-lra8j.com
+claw.cloud
+clawcloudrun.com
+gnews.io
+newsapi.org
