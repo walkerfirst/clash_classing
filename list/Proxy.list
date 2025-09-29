@@ -8,8 +8,6 @@ DOMAIN-SUFFIX,newsapi.org
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,ipcheck.im
 DOMAIN-SUFFIX,fast.com
-# DOMAIN,ichnaea-web.netflix.com
-# DOMAIN-SUFFIX,1.oca.nflxvideo.net
 DOMAIN-SUFFIX,speedcheck.org
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,speedtest.cn
@@ -20,7 +18,6 @@ DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,browserleaks.org
 DOMAIN-SUFFIX,browserleaks.net
 DOMAIN-SUFFIX,dnsleaktest.org
-DOMAIN-SUFFIX,1-b.net
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,jsonp-ip.com
 DOMAIN-SUFFIX,sspanel.net
@@ -49,8 +46,7 @@ DOMAIN-SUFFIX,ip111.cn
 DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,ping0.cc
 DOMAIN-SUFFIX,incolumitas.com
-DOMAIN-SUFFIX,incolumitas.com
-DOMAIN-SUFFIX,incolumitas.com
+
 
 
 
