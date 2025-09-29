@@ -10,8 +10,6 @@ DOMAIN-SUFFIX,ipcheck.im
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,speedcheck.org
 DOMAIN-SUFFIX,speedtest.net
-DOMAIN-SUFFIX,speedtest.cn
-DOMAIN-SUFFIX,ustc.edu.cn
 DOMAIN-SUFFIX,dnscheck.tools
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,browserleaks.com
@@ -42,7 +40,6 @@ DOMAIN-SUFFIX,addr.tools
 DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,ip125.com
 DOMAIN-SUFFIX,skk.moe
-DOMAIN-SUFFIX,ip111.cn
 DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,ping0.cc
 DOMAIN-SUFFIX,incolumitas.com
