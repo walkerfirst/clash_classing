@@ -14,7 +14,7 @@ DOMAIN-SUFFIX,paypalobjects.com
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,ups.com
 DOMAIN-SUFFIX,sf-express.com
-DOMAIN-SUFFIX,pages.dev
+#DOMAIN-SUFFIX,pages.dev
 # DOMAIN-SUFFIX,pharmasi.dpdns.org
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
