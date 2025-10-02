@@ -1,0 +1,23 @@
+# 直连补充列表(国内域名不解析时，防止走代理使用)
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,cloudns.net
+DOMAIN-SUFFIX,hsbc.com.hk
+#DOMAIN-SUFFIX,pages.dev
+
+# MyList
+# 域名后缀匹配
+DOMAIN-SUFFIX,moscwise.com
+DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-KEYWORD,paypal
+DOMAIN-SUFFIX,paypalobjects.com
+DOMAIN-SUFFIX,time.windows.com
+DOMAIN-SUFFIX,ups.com
+DOMAIN-SUFFIX,sf-express.com
+# DOMAIN-SUFFIX,pharmasi.dpdns.org
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,ups
+DOMAIN-KEYWORD,hsbc
+
+IP-CIDR,107.174.54.5/32,no-resolve
