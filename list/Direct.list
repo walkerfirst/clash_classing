@@ -20,3 +20,4 @@ DOMAIN-SUFFIX,sf-express.com
 DOMAIN-KEYWORD,ups
 DOMAIN-KEYWORD,hsbc
 
+IP-CIDR,107.174.54.5/32,no-resolve
