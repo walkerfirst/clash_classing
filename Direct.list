@@ -12,7 +12,7 @@ DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-KEYWORD,paypal
 DOMAIN-SUFFIX,paypalobjects.com
-DOMAIN-SUFFIX,time.windows.com
+#DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,ups.com
 DOMAIN-SUFFIX,sf-express.com
 # DOMAIN-SUFFIX,pharmasi.dpdns.org
