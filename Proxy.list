@@ -1,6 +1,7 @@
 # 手动指定走常用节点的设置.目前跟Github走同样代理
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,workers.dev
+DOMAIN-SUFFIX,sina.com.cn
 DOMAIN-SUFFIX,dpdns.org
 DOMAIN-SUFFIX,claw.cloud
 DOMAIN-SUFFIX,clawcloudrun.com
