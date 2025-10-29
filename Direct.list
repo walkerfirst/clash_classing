@@ -3,11 +3,9 @@ DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,cloudns.net
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,clewm.net
-#DOMAIN-SUFFIX,pages.dev
-
-# MyList
-# 域名后缀匹配
+DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,moscwise.com
+DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-KEYWORD,paypal
