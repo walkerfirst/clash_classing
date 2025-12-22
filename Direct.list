@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,ups.com
 DOMAIN-SUFFIX,sf-express.com
 DOMAIN-SUFFIX,pharmasi.dpdns.org
+DOMAIN-SUFFIX,qianwen.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,ups
