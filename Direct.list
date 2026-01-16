@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,pharmasi.dpdns.org
 DOMAIN-SUFFIX,qianwen.com
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,ups
-DOMAIN-KEYWORD,hsbc
+#DOMAIN-KEYWORD,ups
+#DOMAIN-KEYWORD,hsbc
 
 IP-CIDR,107.174.54.5/32,no-resolve
