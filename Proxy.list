@@ -5,6 +5,9 @@ DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,akadns.net
+DOMAIN-SUFFIX,itunes-apple.com.akadns.net
+DOMAIN-SUFFIX,mail.me.com
 DOMAIN-SUFFIX,dpdns.org
 DOMAIN-SUFFIX,claw.cloud
 DOMAIN-SUFFIX,clawcloudrun.com
