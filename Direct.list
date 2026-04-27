@@ -1,21 +1,22 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
-DOMAIN-SUFFIX,pharmasi.cn
+DOMAIN-SUFFIX,ups.com
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,pharmasi.cn
+DOMAIN-SUFFIX,sf-express.com
 DOMAIN-SUFFIX,cloudns.net
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,clewm.net
-DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,moscwise.com
 DOMAIN-SUFFIX,microsoft.com
+DOMAIN,mobile.events.data.microsoft.com
 DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-KEYWORD,paypal
 DOMAIN-SUFFIX,paypalobjects.com
 DOMAIN-SUFFIX,time.windows.com
-DOMAIN-SUFFIX,ups.com
+DOMAIN-SUFFIX,pharmasi.dpdns.org,
+DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,sf-express.com
-DOMAIN-SUFFIX,pharmasi.dpdns.org
-DOMAIN-SUFFIX,qianwen.com
 
 # 域名关键字匹配
 #DOMAIN-KEYWORD,ups
