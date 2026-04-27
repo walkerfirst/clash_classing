@@ -2,7 +2,6 @@
 DOMAIN-SUFFIX,ups.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,pharmasi.cn
-DOMAIN-SUFFIX,sf-express.com
 DOMAIN-SUFFIX,cloudns.net
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,clewm.net
@@ -16,10 +15,7 @@ DOMAIN-SUFFIX,paypalobjects.com
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,pharmasi.dpdns.org,
 DOMAIN-SUFFIX,aaplimg.com
-DOMAIN-SUFFIX,sf-express.com
 
 # 域名关键字匹配
 #DOMAIN-KEYWORD,ups
 #DOMAIN-KEYWORD,hsbc
-
-IP-CIDR,107.174.54.5/32,no-resolve
