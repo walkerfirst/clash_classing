@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,ipfly.net
 DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN,time.windows.com
 DOMAIN-SUFFIX,vscode.dev
 DOMAIN-SUFFIX,vsassets.io
 #DOMAIN-SUFFIX,akadns.net
