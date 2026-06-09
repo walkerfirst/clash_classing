@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,ipfly.net
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN,time.windows.com
+DOMAIN,pool.ntp.org
 DOMAIN-SUFFIX,vscode.dev
 DOMAIN-SUFFIX,vsassets.io
 #DOMAIN-SUFFIX,akadns.net
