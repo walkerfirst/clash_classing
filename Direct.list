@@ -1,5 +1,7 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 DOMAIN-SUFFIX,ups.com
+DOMAIN-SUFFIX,omtrdc.net
+DOMAIN,ups.tt.omtrdc.net
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,pharmasi.cn
 DOMAIN-SUFFIX,cloudns.net
@@ -17,5 +19,5 @@ DOMAIN-SUFFIX,pharmasi.dpdns.org,
 DOMAIN-SUFFIX,aaplimg.com
 
 # 域名关键字匹配
-#DOMAIN-KEYWORD,ups
+DOMAIN-KEYWORD,ups
 #DOMAIN-KEYWORD,hsbc
