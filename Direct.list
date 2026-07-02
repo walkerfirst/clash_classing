@@ -3,6 +3,8 @@ DOMAIN-SUFFIX,ups.com
 DOMAIN-SUFFIX,omtrdc.net
 DOMAIN,ups.tt.omtrdc.net
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,dhl.com
+DOMAIN-SUFFIX,5idhl.com
 DOMAIN-SUFFIX,pharmasi.cn
 DOMAIN-SUFFIX,cloudns.net
 DOMAIN-SUFFIX,hsbc.com.hk
@@ -20,4 +22,4 @@ DOMAIN-SUFFIX,aaplimg.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,ups
-#DOMAIN-KEYWORD,hsbc
+DOMAIN-KEYWORD,dhl
