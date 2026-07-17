@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,pharmasi.dpdns.org,
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,rom.miui.com
+DOMAIN-SUFFIX,pages.dev
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,ups
